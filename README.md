@@ -16,7 +16,7 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+devgis;+Welcome+to+My+Profile!;一+个+大+二+学+生;Always+learning+new+things+;Machine+learning+enthusiast+;Good+programer+devgis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+devgis;+Welcome+to+My+Profile!;Good+Progamer;Always+learning+new+things+;Machine+learning+enthusiast+;Good+programer+devgis)](https://git.io/typing-svg)
 
 
 <!--   my-kaggle     
