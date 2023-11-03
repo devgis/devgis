@@ -70,10 +70,6 @@
 <a href="http://www.devgis.com" target="blank">www.devgis.com</a>
 </p>
 
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-
 #### Thanks for visiting :heart:
 
 <p align="center"> 
