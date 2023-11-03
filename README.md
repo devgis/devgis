@@ -54,11 +54,11 @@
 
 **📫 How to Reach me:**
 <p align="left">
-访问网站：
+Web：
 <a href="http://www.devgis.com" target="blank">www.devgis.com</a>
 </p>
 <p align="left">
-电子邮件：
+Email：
 <a href="mailto:devgis@qq.com" target="blank">devgis@qq.com</a>
 <p align="left">
 QQ：
