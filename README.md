@@ -56,8 +56,26 @@
 
 **📫 How to Reach me:**
 <p align="left">
+访问网站：
 <a href="http://www.devgis.com" target="blank">www.devgis.com</a>
 </p>
+<p align="left">
+电子邮件：
+<a href="mailto:devgis@qq.com" target="blank">devgis@qq.com</a>
+</p>
+<p align="left">
+<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=80163278&site=qq&menu=yes">
+<img border="0" src="http://wpa.qq.com/pa?p=2:80163278:41" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
+</p>
+<p align="left">
+<form name='sendmail' action='mailto:devgis@qq.com'>
+<input name='cc' type='text' value='sample@hotmail.com'>
+<input name='subject' type='text' value='Hello DEVGIS!'>
+<input name='body' type='text' value='...'>
+</form>
+</p>
+
+
 
 #### Thanks for visiting :heart:
 
