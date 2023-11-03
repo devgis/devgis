@@ -60,6 +60,9 @@
 <p align="left">
 电子邮件：
 <a href="mailto:devgis@qq.com" target="blank">devgis@qq.com</a>
+<p align="left">
+QQ：
+<a href="http://wpa.qq.com/msgrd?v=3&uin=80163278&site=qq&menu=yes" target="blank">80163278</a>
 </p>
 <p align="left">
 <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=80163278&site=qq&menu=yes">
