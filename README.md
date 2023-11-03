@@ -44,9 +44,6 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![devgis's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devgis&theme=github-compact)](https://github.com/devgis/github-readme-activity-graph)
-
-| 。                                                                                                                                       | 。                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![devgis's github stats](https://github-readme-stats.vercel.app/api?username=devgis&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devgis&theme=radical&layout=compact) |
 
