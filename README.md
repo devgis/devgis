@@ -52,18 +52,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devgis"></img>
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!--   grid-snake -->
-![](https://github.com/devgis/devgis/blob/output/github-contribution-grid-snake.svg)
-
-<!--   skyline 
-<a href="https://skyline.github.com/devgis/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=devgis" width="auto"></img>
 
 **📫 How to Reach me:**
 <p align="left">
