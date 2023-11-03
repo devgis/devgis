@@ -63,7 +63,7 @@
 </p>
 <p align="left">
 <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=80163278&site=qq&menu=yes">
-<img border="0" src="https://pub.idqqimg.com/qconn/wpa/button/button_11.gif" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
+<img border="0" src="./assets/button_11.gif" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
 </p>
 <p align="left">
 <form name='sendmail' action='mailto:devgis@qq.com'>
