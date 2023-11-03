@@ -44,7 +44,6 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![devgis's github stats](https://github-readme-stats.vercel.app/api?username=devgis&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devgis&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devgis"></img>
@@ -62,7 +61,7 @@
 </p>
 <p align="left">
 <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=80163278&site=qq&menu=yes">
-<img border="0" src="http://wpa.qq.com/pa?p=2:80163278:41" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
+<img border="0" src="https://pub.idqqimg.com/qconn/wpa/button/button_11.gif" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
 </p>
 <p align="left">
 <form name='sendmail' action='mailto:devgis@qq.com'>
